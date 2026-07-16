@@ -1,4 +1,4 @@
-# http-vs-https
+
 # HTTP vs HTTPS
 
 ## Introduction
